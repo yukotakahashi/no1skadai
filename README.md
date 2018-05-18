@@ -9,6 +9,7 @@ TwitterOAuth
 インストール手順
 composer経由、下記のコマンドでインストール
 composer require abraham/twitteroauth
+#インストールされたvendorディレクトリをkadai1.phpと同じ配下に格納
 
 
 #クローラー作成
@@ -19,3 +20,4 @@ phpQuery
 インストール手順
 composer経由、下記のコマンドでインストール
 composer require electrolinux/phpquery
+#インストールされたvendorディレクトリをkadai2.phpと同じ配下に格納
